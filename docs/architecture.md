@@ -1,5 +1,3 @@
-Certainly! Here’s a detailed backend architecture for your **OCR-NLP-Automator** project using **FastAPI**:
-
 ### Backend Architecture Overview
 
 The backend architecture consists of several key components, each handling specific tasks within the OCR and NLP processing pipeline. Here’s a breakdown of the architecture:
