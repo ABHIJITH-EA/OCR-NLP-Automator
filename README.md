@@ -16,4 +16,3 @@ This project enables users to upload scanned documents (PDFs, images), convert t
 - **NLP**: Python (SpaCy, NLTK, Hugging Face Transformers)
 - **Backend**: Flask/FastAPI (or any backend framework you choose)
 - **Frontend (optional)**: React or HTML/CSS for a simple web interface
-- 
