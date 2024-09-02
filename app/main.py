@@ -2,10 +2,10 @@
 
 from fastapi import FastAPI
 
-from app.api import endpoints
+from app.api import file_endpoints
 
 app = FastAPI()
 
-app.include_router(endpoints.router, 
+app.include_router(file_endpoints.router, 
                    prefix="/api"
 )
